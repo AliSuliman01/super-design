@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super design", "super design\super design.csproj", "{DB787959-3907-488C-9A28-175C7A080C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myImageButton", "myImageButton\myImageButton.csproj", "{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2020 Debug|Any CPU = 2020 Debug|Any CPU
+		2020 Release|Any CPU = 2020 Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		X7 Debug|Any CPU = X7 Debug|Any CPU
+		X7 Release|Any CPU = X7 Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB787959-3907-488C-9A28-175C7A080C63}.2020 Debug|Any CPU.ActiveCfg = 2020 Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.2020 Debug|Any CPU.Build.0 = 2020 Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.2020 Release|Any CPU.ActiveCfg = 2020 Release|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.2020 Release|Any CPU.Build.0 = 2020 Release|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.Release|Any CPU.ActiveCfg = X8 Release|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.Release|Any CPU.Build.0 = X8 Release|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.X7 Debug|Any CPU.ActiveCfg = X7 Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.X7 Debug|Any CPU.Build.0 = X7 Debug|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.X7 Release|Any CPU.ActiveCfg = X7 Release|Any CPU
+		{DB787959-3907-488C-9A28-175C7A080C63}.X7 Release|Any CPU.Build.0 = X7 Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.2020 Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.2020 Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.2020 Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.2020 Release|Any CPU.Build.0 = Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.X7 Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.X7 Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.X7 Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441AC32D-A43A-41CB-BF80-8F8F36BBBD61}.X7 Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8948E716-029B-4A14-9FB0-FBCFA80C67C9}
+	EndGlobalSection
+EndGlobal
